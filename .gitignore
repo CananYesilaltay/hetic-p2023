@@ -1,0 +1,6 @@
+node_modules
+vendor
+.DS_STORE
+
+# faire sur gitignore.io en tapant des mots clé
+
